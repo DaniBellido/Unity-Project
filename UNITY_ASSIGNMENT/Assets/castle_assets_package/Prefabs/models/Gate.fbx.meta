@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: f0ec8a00e025fef4a8414ca0daeebbc7
+timeCreated: 1533808365
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: madera1
+    100004: pared_puerta
+    100006: pared_puerta10
+    100008: pared_puerta11
+    100010: pared_puerta12
+    100012: pared_puerta13
+    100014: pared_puerta14
+    100016: pared_puerta15
+    100018: pared_puerta2
+    100020: pared_puerta3
+    100022: pared_puerta4
+    100024: pared_puerta5
+    100026: pared_puerta6
+    100028: pared_puerta7
+    100030: pared_puerta8
+    100032: pared_puerta9
+    100034: pomo
+    400000: //RootNode
+    400002: madera1
+    400004: pared_puerta
+    400006: pared_puerta10
+    400008: pared_puerta11
+    400010: pared_puerta12
+    400012: pared_puerta13
+    400014: pared_puerta14
+    400016: pared_puerta15
+    400018: pared_puerta2
+    400020: pared_puerta3
+    400022: pared_puerta4
+    400024: pared_puerta5
+    400026: pared_puerta6
+    400028: pared_puerta7
+    400030: pared_puerta8
+    400032: pared_puerta9
+    400034: pomo
+    2100000: lambert12
+    2100002: lambert13
+    2100004: lambert5
+    2300000: madera1
+    2300002: pared_puerta
+    2300004: pared_puerta10
+    2300006: pared_puerta11
+    2300008: pared_puerta12
+    2300010: pared_puerta13
+    2300012: pared_puerta14
+    2300014: pared_puerta15
+    2300016: pared_puerta2
+    2300018: pared_puerta3
+    2300020: pared_puerta4
+    2300022: pared_puerta5
+    2300024: pared_puerta6
+    2300026: pared_puerta7
+    2300028: pared_puerta8
+    2300030: pared_puerta9
+    2300032: pomo
+    3300000: madera1
+    3300002: pared_puerta
+    3300004: pared_puerta10
+    3300006: pared_puerta11
+    3300008: pared_puerta12
+    3300010: pared_puerta13
+    3300012: pared_puerta14
+    3300014: pared_puerta15
+    3300016: pared_puerta2
+    3300018: pared_puerta3
+    3300020: pared_puerta4
+    3300022: pared_puerta5
+    3300024: pared_puerta6
+    3300026: pared_puerta7
+    3300028: pared_puerta8
+    3300030: pared_puerta9
+    3300032: pomo
+    4300000: pared_puerta2
+    4300002: pared_puerta3
+    4300004: pared_puerta4
+    4300006: pared_puerta5
+    4300008: pared_puerta6
+    4300010: pared_puerta7
+    4300012: pared_puerta8
+    4300014: pared_puerta9
+    4300016: pared_puerta10
+    4300018: pared_puerta11
+    4300020: pared_puerta12
+    4300022: pared_puerta13
+    4300024: pared_puerta14
+    4300026: pared_puerta15
+    4300028: pared_puerta
+    4300030: madera1
+    4300032: pomo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 36bcfb90934c9424eab9edc6f573739f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: a4edbbfff8e104143be551740bc97437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: b301fdb93c76dfc4b8e0065f2f17957d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

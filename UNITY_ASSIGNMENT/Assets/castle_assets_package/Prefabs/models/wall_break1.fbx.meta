@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 1847d0a4021d8d548a57dc025d560143
+timeCreated: 1533810141
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pared_rota
+    100002: pared_rota1
+    100004: pared_rota10
+    100006: pared_rota11
+    100008: pared_rota12
+    100010: pared_rota13
+    100012: pared_rota14
+    100014: pared_rota15
+    100016: pared_rota16
+    100018: pared_rota2
+    100020: pared_rota3
+    100022: pared_rota4
+    100024: pared_rota5
+    100026: pared_rota6
+    100028: pared_rota7
+    100030: pared_rota8
+    100032: pared_rota9
+    100034: //RootNode
+    400000: pared_rota
+    400002: pared_rota1
+    400004: pared_rota10
+    400006: pared_rota11
+    400008: pared_rota12
+    400010: pared_rota13
+    400012: pared_rota14
+    400014: pared_rota15
+    400016: pared_rota16
+    400018: pared_rota2
+    400020: pared_rota3
+    400022: pared_rota4
+    400024: pared_rota5
+    400026: pared_rota6
+    400028: pared_rota7
+    400030: pared_rota8
+    400032: pared_rota9
+    400034: //RootNode
+    2100000: lambert18
+    2300000: pared_rota1
+    2300002: pared_rota10
+    2300004: pared_rota11
+    2300006: pared_rota12
+    2300008: pared_rota13
+    2300010: pared_rota14
+    2300012: pared_rota15
+    2300014: pared_rota16
+    2300016: pared_rota2
+    2300018: pared_rota3
+    2300020: pared_rota4
+    2300022: pared_rota5
+    2300024: pared_rota6
+    2300026: pared_rota7
+    2300028: pared_rota8
+    2300030: pared_rota9
+    3300000: pared_rota1
+    3300002: pared_rota10
+    3300004: pared_rota11
+    3300006: pared_rota12
+    3300008: pared_rota13
+    3300010: pared_rota14
+    3300012: pared_rota15
+    3300014: pared_rota16
+    3300016: pared_rota2
+    3300018: pared_rota3
+    3300020: pared_rota4
+    3300022: pared_rota5
+    3300024: pared_rota6
+    3300026: pared_rota7
+    3300028: pared_rota8
+    3300030: pared_rota9
+    4300000: pared_rota1
+    4300002: pared_rota2
+    4300004: pared_rota3
+    4300006: pared_rota4
+    4300008: pared_rota5
+    4300010: pared_rota6
+    4300012: pared_rota7
+    4300014: pared_rota8
+    4300016: pared_rota9
+    4300018: pared_rota10
+    4300020: pared_rota11
+    4300022: pared_rota12
+    4300024: pared_rota13
+    4300026: pared_rota14
+    4300028: pared_rota15
+    4300030: pared_rota16
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: a4edbbfff8e104143be551740bc97437, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
